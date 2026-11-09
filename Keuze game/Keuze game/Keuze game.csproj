@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3140BD9C-29C5-4E83-A313-C32E269EDA5B}</ProjectGuid>
+    <ProjectGuid>{0AF31011-FB1B-4416-97E1-D4FA127044AD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Kamer_Keuze_Tekst_Game</RootNamespace>
-    <AssemblyName>Kamer Keuze Tekst-Game</AssemblyName>
+    <RootNamespace>Keuze_game</RootNamespace>
+    <AssemblyName>Keuze game</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Kamer Keuze Tekst-Game")]
+[assembly: AssemblyTitle("Keuze game")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Kamer Keuze Tekst-Game")]
+[assembly: AssemblyProduct("Keuze game")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3140bd9c-29c5-4e83-a313-c32e269eda5b")]
+[assembly: Guid("0af31011-fb1b-4416-97e1-d4fa127044ad")]
 
 // Version information for an assembly consists of the following four values:
 //
