@@ -10,7 +10,10 @@ namespace test2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("What is your name?");
+            String name = Console.ReadLine();
+            int age = int Console.ReadLine();
+            Console.WriteLine($"Hoi {name}, je bent {age} jaar oud!");
             Console.ReadLine();
         }
     }
